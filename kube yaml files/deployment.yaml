@@ -18,4 +18,4 @@ spec:
       - name: aks
         image: demodr.azurecr.io/dockermavenimage:24
         ports:
-        - containerPort: 8080
+        - containerPort: 80
