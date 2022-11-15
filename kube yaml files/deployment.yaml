@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: aks
-        image: demodr.azurecr.io/dockermavenimage:24
+        image: demodr.azurecr.io/angdockimage:45
         ports:
         - containerPort: 80
